@@ -1,5 +1,5 @@
 # GitHub Unfollow Script
-Automate unfollow script for those you are following but not following back on GitHub !
+auto unfollow script for those you follow but not following back on GitHub !
 
 ## Run With GitHub Codespaces
 you can even simply do this on GitHub Codespaces
