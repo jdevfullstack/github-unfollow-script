@@ -7,7 +7,7 @@ you can even simply do this on GitHub Codespaces
 To run the script in GitHub Codespaces:
 
 1. Open your repository in GitHub Codespaces.
-2. Create a new file, let's say `unfollow.js`, and paste the JavaScript code into this file.
+2. Create a new file `unfollow.js`, and paste the JavaScript code into this file.
 3. Open a terminal in Codespaces (View > Terminal).
 4. In the terminal, run `npm install @octokit/rest` to install the Octokit library.
 5. Run the script with `node unfollow.js`.
