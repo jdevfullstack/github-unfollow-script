@@ -12,6 +12,6 @@ To run the script in GitHub Codespaces:
 4. In the terminal, run `npm install @octokit/rest` to install the Octokit library.
 5. Run the script with `node unfollow.js`.
 
-Remember to replace `'your_username'` and `'your_token'` in the script 
+Remember to replace `'your_username'` and `'your_token_with_correct_permission'` in the script 
 with your actual GitHub username and personal access token.
 
