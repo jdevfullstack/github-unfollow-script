@@ -15,3 +15,6 @@ To run the script in GitHub Codespaces:
 Remember to replace `'your_username'` and `'your_token_with_correct_permission'` in the script 
 with your actual GitHub username and personal access token.
 
+I tested it in one run, up to 4K it can scan 
+but will take few minutes, so better be sure you have stable connection
+and I did not hit the rate limit that time. Enjoy !
