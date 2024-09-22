@@ -1,7 +1,7 @@
 (async () => {
   const { Octokit } = await import("@octokit/rest");
 
-  // create a personal access token at https://github.com/settings/tokens/new?scopes=user:follow
+  // create a personal access token at https://github.com/settings/tokens/new?scopes=user:follow&description=Unfollow+Script+Token
   const octokit = new Octokit({ auth: `your_token_with_correct_permission` });
 
   async function unfollowNonFollowers() {
